@@ -1,6 +1,6 @@
 class Sorter {
   constructor() {
-    //My first commit your implementation
+    // your implementation
   }
 
   add(element) {
